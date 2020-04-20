@@ -1,0 +1,17 @@
+h1{
+	margin: 0px;
+    left: 500px;
+	font-size: 50px;
+}
+p{
+	font-size:20px;
+}
+h2{
+	left: 1000px;
+}
+.nav-link{
+	left: 0px;
+}
+.nav-wrapper{
+	left: 30px;
+}
